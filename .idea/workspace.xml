@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb91e47-7e2a-4241-8e64-6dd84888e5a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Runner/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Runner/run.py" afterDir="false" />
     </list>
@@ -55,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Runner/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            <state relative-caret-position="389">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
               </folding>
@@ -179,8 +178,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1602" />
-    <option name="y" value="10" />
+    <option name="x" value="1446" />
+    <option name="y" value="38" />
     <option name="width" value="997" />
     <option name="height" value="728" />
   </component>
@@ -555,7 +554,7 @@
       <workItem from="1605147450493" duration="8455000" />
       <workItem from="1605420926789" duration="10496000" />
       <workItem from="1605496892884" duration="10239000" />
-      <workItem from="1605601217876" duration="3554000" />
+      <workItem from="1605601217876" duration="4306000" />
     </task>
     <servers />
   </component>
@@ -592,7 +591,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="636397000" />
+    <option name="totallyTimeSpent" value="637149000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -621,7 +620,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014641" side_tool="true" weight="0.5687204" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4902386" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.38828632" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.28968903" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.328594" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -867,8 +866,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Runner/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="389">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#16#31#0" expanded="true" />
           </folding>
