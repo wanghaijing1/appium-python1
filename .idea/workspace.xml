@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdb91e47-7e2a-4241-8e64-6dd84888e5a6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TujiaTest$run.coverage" NAME="run Coverage Results" MODIFIED="1595822696910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runner" />
+    <SUITE FILE_PATH="coverage/TujiaTest1$App.coverage" NAME="App Coverage Results" MODIFIED="1595847494865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/TujiaTest$LoginTest.coverage" NAME="LoginTest Coverage Results" MODIFIED="1594779458982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$AppUtils.coverage" NAME="AppUtils Coverage Results" MODIFIED="1594722795305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TujiaTest1$favorite_page.coverage" NAME="favorite_page Coverage Results" MODIFIED="1595846666315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/TujiaTest$LoginPage.coverage" NAME="LoginPage Coverage Results" MODIFIED="1594269679326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/TujiaTest$App.coverage" NAME="App Coverage Results" MODIFIED="1595725622835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/TujiaTest$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1595504806838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Report" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Test_LoginTest.coverage" NAME="Test_LoginTest Coverage Results" MODIFIED="1595334510111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest1$personalCenter_page.coverage" NAME="personalCenter_page Coverage Results" MODIFIED="1601797520381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Login.coverage" NAME="Login Coverage Results" MODIFIED="1594637469185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1595731966529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Customer.coverage" NAME="Customer Coverage Results" MODIFIED="1595211240971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Unittests_for_Firsttest_FirstTest.coverage" NAME="Unittests for Firsttest.FirstTest Coverage Results" MODIFIED="1571217024604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$app.coverage" NAME="app Coverage Results" MODIFIED="1595323816163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/TujiaTest$demo.coverage" NAME="demo Coverage Results" MODIFIED="1595505782722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Unittests_for_MessageCenter_MessageCenter.coverage" NAME="Unittests for MessageCenter.MessageCenter Coverage Results" MODIFIED="1569555569357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Test_Favorite.coverage" NAME="Test_Favorite Coverage Results" MODIFIED="1595492899607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest1$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1595846549677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/TujiaTest$androidapk.coverage" NAME="androidapk Coverage Results" MODIFIED="1567476556658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apk" />
+    <SUITE FILE_PATH="coverage/TujiaTest$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1595507214598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runner" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Unittests_for_Order_Order.coverage" NAME="Unittests for Order.Order Coverage Results" MODIFIED="1568947380055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Unittests_for_Customer_Customer_test_login.coverage" NAME="Unittests for Customer.Customer.test_login Coverage Results" MODIFIED="1594899688013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$Unittests_for_Customer_Customer.coverage" NAME="Unittests for Customer.Customer Coverage Results" MODIFIED="1595151766156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1594206759284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/TujiaTest$LoginElement.coverage" NAME="LoginElement Coverage Results" MODIFIED="1595503473850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Object Repository" />
+    <SUITE FILE_PATH="coverage/TujiaTest1$run.coverage" NAME="run Coverage Results" MODIFIED="1605511726840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runner" />
+    <SUITE FILE_PATH="coverage/TujiaTest$main.coverage" NAME="main Coverage Results" MODIFIED="1595211179253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runner" />
+    <SUITE FILE_PATH="coverage/TujiaTest$BaseTest.coverage" NAME="BaseTest Coverage Results" MODIFIED="1594778612274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
+    <SUITE FILE_PATH="coverage/TujiaTest1$FavoriteBusiness.coverage" NAME="FavoriteBusiness Coverage Results" MODIFIED="1595848815623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/business" />
+    <SUITE FILE_PATH="coverage/TujiaTest$favorite_page.coverage" NAME="favorite_page Coverage Results" MODIFIED="1595818225012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/TujiaTest$login.coverage" NAME="login Coverage Results" MODIFIED="1595732315913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/TujiaTest$swipe.coverage" NAME="swipe Coverage Results" MODIFIED="1569657438571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TujiaTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Runner/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+              <folding>
+                <element signature="e#16#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_5_im.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/business/IMBusiness.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/IM_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1825">
+              <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>列表页操作</find>
+      <find>/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup[3]/android.view.ViewGroup[1]&quot;)</find>
+      <find>toFavoriteButton</find>
+      <find>toSearchhouseClickBack</find>
+      <find>toFavCityBack</find>
+      <find>toFavCmsListClickIcon</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\AppiumProjects\TujiaTest\apk</dir>
+      <dir>E:\AppiumProjects\TujiaTest\page</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/FileUtil.py" />
+        <option value="$PROJECT_DIR$/utils/App.py" />
+        <option value="$PROJECT_DIR$/testcase/Login.py" />
+        <option value="$PROJECT_DIR$/testcase/LoginTest.py" />
+        <option value="$PROJECT_DIR$/testcase/main.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/base/DriverBase.py" />
+        <option value="$PROJECT_DIR$/base/BaseTest.py" />
+        <option value="$PROJECT_DIR$/page/MainPage.py" />
+        <option value="$PROJECT_DIR$/page/LoginPage.py" />
+        <option value="$PROJECT_DIR$/testcase/Customer.py" />
+        <option value="$PROJECT_DIR$/base/app.py" />
+        <option value="$PROJECT_DIR$/Runner/main.py" />
+        <option value="$PROJECT_DIR$/page/main_page.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_LoginTest.py" />
+        <option value="$PROJECT_DIR$/Report/__init__.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/Runner/demo.py" />
+        <option value="$PROJECT_DIR$/page/login.py" />
+        <option value="$PROJECT_DIR$/page/login_page1.py" />
+        <option value="$PROJECT_DIR$/base/common.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_Favorite.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_Login.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_2_Favorite.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_1_Login.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_1_Feed.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_4_IM.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_5_Order.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_2_Order.py" />
+        <option value="$PROJECT_DIR$/Object Repository/LoginElement.py" />
+        <option value="$PROJECT_DIR$/Element/LoginElement.py" />
+        <option value="$PROJECT_DIR$/utils/AppUtils.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_2_PersonalCenter.py" />
+        <option value="$PROJECT_DIR$/testcase/Test_4_Feed.py" />
+        <option value="$PROJECT_DIR$/base/App.py" />
+        <option value="$PROJECT_DIR$/Runner/run.py" />
+        <option value="$PROJECT_DIR$/testcase/test_2_favorite.py" />
+        <option value="$PROJECT_DIR$/business/FeedBusiness.py" />
+        <option value="$PROJECT_DIR$/testcase/test_2_order.py" />
+        <option value="$PROJECT_DIR$/page/login_page.py" />
+        <option value="$PROJECT_DIR$/business/LoginBusiness.py" />
+        <option value="$PROJECT_DIR$/business/OrderBusiness.py" />
+        <option value="$PROJECT_DIR$/page/feed_page.py" />
+        <option value="$PROJECT_DIR$/base/BasePage.py" />
+        <option value="$PROJECT_DIR$/page/favorite_page.py" />
+        <option value="$PROJECT_DIR$/business/FavoriteBusiness.py" />
+        <option value="$PROJECT_DIR$/page/order_page.py" />
+        <option value="$PROJECT_DIR$/business/PersonalCenterBusiness.py" />
+        <option value="$PROJECT_DIR$/page/personalCenter_page.py" />
+        <option value="$PROJECT_DIR$/page/IM_page.py" />
+        <option value="$PROJECT_DIR$/business/IMBusiness.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="81" />
+    <option name="y" value="248" />
+    <option name="width" value="997" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="apk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="Runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TujiaTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TujiaTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Auto_Analysis-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AppiumProjects\TujiaTest\Runner" />
+      <recent name="E:\AppiumProjects\TujiaTest" />
+      <recent name="E:\AppiumProjects\TujiaTest\testcase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AppiumProjects\TujiaTest1\business" />
+      <recent name="E:\AppiumProjects\TujiaTest\testcase" />
+      <recent name="E:\AppiumProjects\TujiaTest" />
+      <recent name="E:\AppiumProjects\TujiaTest\apk" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TujiaTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FavoriteBusiness" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TujiaTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/business" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/business/FavoriteBusiness.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="favorite_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TujiaTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page/favorite_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TujiaTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page/login_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="personalCenter_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TujiaTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page/personalCenter_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="TujiaTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Runner/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.personalCenter_page" />
+        <item itemvalue="Python.FavoriteBusiness" />
+        <item itemvalue="Python.App" />
+        <item itemvalue="Python.favorite_page" />
+        <item itemvalue="Python.login_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb91e47-7e2a-4241-8e64-6dd84888e5a6" name="Default Changelist" comment="" />
+      <created>1566897595257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566897595257</updated>
+      <workItem from="1566897596358" duration="5206000" />
+      <workItem from="1566904891029" duration="2375000" />
+      <workItem from="1567045302373" duration="15545000" />
+      <workItem from="1567211379682" duration="4442000" />
+      <workItem from="1567217201217" duration="4743000" />
+      <workItem from="1567295401932" duration="8924000" />
+      <workItem from="1567307095726" duration="2033000" />
+      <workItem from="1567318154477" duration="1298000" />
+      <workItem from="1567321066371" duration="2959000" />
+      <workItem from="1567389868906" duration="13738000" />
+      <workItem from="1567476317328" duration="842000" />
+      <workItem from="1567562408768" duration="2485000" />
+      <workItem from="1567564913532" duration="12589000" />
+      <workItem from="1567649340052" duration="8237000" />
+      <workItem from="1567665926283" duration="2192000" />
+      <workItem from="1567820004999" duration="14374000" />
+      <workItem from="1567912788675" duration="3596000" />
+      <workItem from="1568946664810" duration="10749000" />
+      <workItem from="1569135819545" duration="1301000" />
+      <workItem from="1569204364228" duration="1892000" />
+      <workItem from="1569465038736" duration="289000" />
+      <workItem from="1569549268228" duration="12411000" />
+      <workItem from="1569653426049" duration="5223000" />
+      <workItem from="1569727888376" duration="6447000" />
+      <workItem from="1569824830670" duration="7508000" />
+      <workItem from="1569999401315" duration="10338000" />
+      <workItem from="1570087868798" duration="2098000" />
+      <workItem from="1570171391311" duration="5561000" />
+      <workItem from="1570233857111" duration="15491000" />
+      <workItem from="1570504358743" duration="1863000" />
+      <workItem from="1570585361092" duration="599000" />
+      <workItem from="1571103371630" duration="4000" />
+      <workItem from="1571103790803" duration="1269000" />
+      <workItem from="1571124235024" duration="667000" />
+      <workItem from="1571141162711" duration="3460000" />
+      <workItem from="1571190392712" duration="14088000" />
+      <workItem from="1571276846001" duration="631000" />
+      <workItem from="1571533225429" duration="1653000" />
+      <workItem from="1571621613147" duration="828000" />
+      <workItem from="1571707791930" duration="643000" />
+      <workItem from="1571793648112" duration="1805000" />
+      <workItem from="1571879574439" duration="2252000" />
+      <workItem from="1571987922332" duration="1170000" />
+      <workItem from="1572070292057" duration="646000" />
+      <workItem from="1572225568496" duration="3337000" />
+      <workItem from="1572833356463" duration="599000" />
+      <workItem from="1574736638751" duration="1455000" />
+      <workItem from="1589768050105" duration="1954000" />
+      <workItem from="1589868715304" duration="2207000" />
+      <workItem from="1592444252278" duration="1364000" />
+      <workItem from="1592963054932" duration="598000" />
+      <workItem from="1594001200335" duration="1322000" />
+      <workItem from="1594086207128" duration="1099000" />
+      <workItem from="1594177626502" duration="12902000" />
+      <workItem from="1594202288723" duration="5768000" />
+      <workItem from="1594260240996" duration="2992000" />
+      <workItem from="1594264551517" duration="7001000" />
+      <workItem from="1594605645421" duration="10929000" />
+      <workItem from="1594692261062" duration="7904000" />
+      <workItem from="1594720517855" duration="2854000" />
+      <workItem from="1594723411588" duration="113000" />
+      <workItem from="1594723525693" duration="1429000" />
+      <workItem from="1594778537310" duration="462000" />
+      <workItem from="1594779035272" duration="4738000" />
+      <workItem from="1594864116182" duration="9302000" />
+      <workItem from="1594899637057" duration="539000" />
+      <workItem from="1594951504871" duration="5820000" />
+      <workItem from="1595144548968" duration="218000" />
+      <workItem from="1595144883816" duration="7953000" />
+      <workItem from="1595210578208" duration="1321000" />
+      <workItem from="1595211919299" duration="632000" />
+      <workItem from="1595214163648" duration="268000" />
+      <workItem from="1595302334689" duration="1579000" />
+      <workItem from="1595319924226" duration="34686000" />
+      <workItem from="1595470106874" duration="11304000" />
+      <workItem from="1595490575112" duration="20307000" />
+      <workItem from="1595554496138" duration="7768000" />
+      <workItem from="1595637918929" duration="9900000" />
+      <workItem from="1595657769709" duration="2549000" />
+      <workItem from="1595660344156" duration="2154000" />
+      <workItem from="1595724409821" duration="15705000" />
+      <workItem from="1595816478895" duration="6949000" />
+      <workItem from="1595826784947" duration="599000" />
+      <workItem from="1595828729773" duration="15274000" />
+      <workItem from="1595900710052" duration="3115000" />
+      <workItem from="1595920017834" duration="18812000" />
+      <workItem from="1595987571381" duration="11715000" />
+      <workItem from="1596772539012" duration="2338000" />
+      <workItem from="1596934028902" duration="4760000" />
+      <workItem from="1597025894538" duration="6895000" />
+      <workItem from="1597109326693" duration="16191000" />
+      <workItem from="1597198471511" duration="601000" />
+      <workItem from="1597306767645" duration="3178000" />
+      <workItem from="1597369047669" duration="3359000" />
+      <workItem from="1597974644721" duration="4262000" />
+      <workItem from="1598233932804" duration="2735000" />
+      <workItem from="1599444102164" duration="599000" />
+      <workItem from="1600410548029" duration="2483000" />
+      <workItem from="1600669602101" duration="1092000" />
+      <workItem from="1600739711806" duration="1481000" />
+      <workItem from="1600828124486" duration="7022000" />
+      <workItem from="1600913889945" duration="598000" />
+      <workItem from="1601260994678" duration="611000" />
+      <workItem from="1601793278456" duration="8158000" />
+      <workItem from="1601801458003" duration="1331000" />
+      <workItem from="1601859142637" duration="4405000" />
+      <workItem from="1601967789105" duration="612000" />
+      <workItem from="1602138305978" duration="2105000" />
+      <workItem from="1602309854045" duration="2257000" />
+      <workItem from="1602403116225" duration="2273000" />
+      <workItem from="1602728298282" duration="13226000" />
+      <workItem from="1602929059816" duration="958000" />
+      <workItem from="1603175770523" duration="1243000" />
+      <workItem from="1603783488763" duration="598000" />
+      <workItem from="1603850524964" duration="599000" />
+      <workItem from="1603937804750" duration="961000" />
+      <workItem from="1604023465114" duration="6042000" />
+      <workItem from="1604191752130" duration="17649000" />
+      <workItem from="1604283463567" duration="3530000" />
+      <workItem from="1604370648632" duration="1919000" />
+      <workItem from="1604455621244" duration="896000" />
+      <workItem from="1604565263784" duration="726000" />
+      <workItem from="1605147450493" duration="8455000" />
+      <workItem from="1605420926789" duration="10496000" />
+      <workItem from="1605496892884" duration="10239000" />
+      <workItem from="1605601217876" duration="992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.14 at 18h 19m 41s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.14 at 18h 21m 19s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.14 at 18h 23m 57s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.15 at 10h 04m 35s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.15 at 10h 05m 35s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer_test_login - 2020.07.16 at 19h 42m 13s.xml">
+      <configuration name="Unittests for Customer.Customer.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.16 at 19h 43m 12s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.17 at 16h 35m 55s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.19 at 17h 42m 28s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Customer_Customer - 2020.07.19 at 17h 42m 46s.xml">
+      <configuration name="Unittests for Customer.Customer" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="633835000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49392712" visible="true" weight="0.36459908" />
+      <window_info id="Structure" order="1" sideWeight="0.5057283" side_tool="true" weight="0.16868381" />
+      <window_info id="Favorites" order="2" sideWeight="0.5060729" side_tool="true" weight="0.16325037" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.49447078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49853587" weight="0.49763033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30963665" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.18325435" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014641" side_tool="true" weight="0.5687204" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3371522" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.28968903" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.328594" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>self.driver.find_element_by_id(&quot;com.tujia.hotel:id/tj_widget_radio_5&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.driver.find_element_by_id(&quot;com.tujia.hotel:id/tj_widget_radio_5&quot;).click()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login.py" />
+    <entry file="file://$PROJECT_DIR$/Report2020-07-26_15-27-38.html" />
+    <entry file="file://$PROJECT_DIR$/Runner/report/2020-07-26_15-24-36.html" />
+    <entry file="file://$PROJECT_DIR$/Runner/report/2020-07-26_15-46-20.html" />
+    <entry file="file://$PROJECT_DIR$/Runner/report/2020-07-26_15-50-49.html" />
+    <entry file="file://$PROJECT_DIR$/Runner/report/2020-07-26_16-02-04.html" />
+    <entry file="file://D:/python/python3.6.0/Lib/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485">
+          <caret line="642" selection-start-line="642" selection-end-line="642" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/python3.6.0/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="337" selection-start-line="337" selection-end-line="337" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner/report/2020-07-26_16-19-31.html" />
+    <entry file="file://$PROJECT_DIR$/Runner/report/2020-07-26_16-22-12.html" />
+    <entry file="file://$PROJECT_DIR$/Runner/report/2020-07-26_18-23-53.html" />
+    <entry file="file://$PROJECT_DIR$/Runner/report/2020-07-27_12-01-28.html" />
+    <entry file="file://$PROJECT_DIR$/base/common.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="219" column="8" selection-start-line="219" selection-start-column="8" selection-end-line="219" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2020-07-27_19-39-48.html" />
+    <entry file="file://D:/python/python3.6.0/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2020-07-28_10-01-09.html" />
+    <entry file="file://$USER_HOME$/Desktop/base.py" />
+    <entry file="file://$PROJECT_DIR$/page/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/PersonalCenterBusiness" />
+    <entry file="file://$PROJECT_DIR$/report/2020-10-04_15-29-38.html" />
+    <entry file="file://$PROJECT_DIR$/report/2020-10-04_16-43-58.html" />
+    <entry file="file://$PROJECT_DIR$/Element/LoginElement.py" />
+    <entry file="file://$PROJECT_DIR$/utils/AppUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2020-10-15_10-43-01.html" />
+    <entry file="file://D:/python/python3.6.0/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="414" lean-forward="true" selection-start-line="414" selection-end-line="414" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/App.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_1_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/LoginBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2020-11-15_14-50-21.html" />
+    <entry file="file://$PROJECT_DIR$/business/FeedBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_4_feed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2020-11-16_11-40-05.html" />
+    <entry file="file://$PROJECT_DIR$/base/BasePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="35" selection-end-column="52" />
+          <folding>
+            <element signature="e#20#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/feed_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/favorite_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="82" column="534" selection-start-line="82" selection-start-column="534" selection-end-line="82" selection-end-column="534" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/FavoriteBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_3_favorite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_6_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/OrderBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/PersonalCenterBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_2_personalCenter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/order_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/personalCenter_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="148" column="4" selection-start-line="148" selection-start-column="4" selection-end-line="149" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runner/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_5_im.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/IMBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/IM_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
