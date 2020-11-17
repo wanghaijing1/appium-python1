@@ -22,3 +22,5 @@ if __name__ == '__main__':
     runner = HTMLTestRunner(stream=fp, title='途家测试报告', description='用例执行情况')
     runner.run(suite)
     fp.close()
+    # git 随机验证
+    fp.close()
