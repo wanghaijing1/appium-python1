@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdb91e47-7e2a-4241-8e64-6dd84888e5a6" name="Default Changelist" comment="" />
+    <list default="true" id="fdb91e47-7e2a-4241-8e64-6dd84888e5a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runner/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Runner/run.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Runner/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="345">
+              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
               </folding>
@@ -76,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/business/IMBusiness.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="34" />
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -112,6 +116,10 @@
       <dir>E:\AppiumProjects\TujiaTest\apk</dir>
       <dir>E:\AppiumProjects\TujiaTest\page</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -151,7 +159,6 @@
         <option value="$PROJECT_DIR$/testcase/Test_2_PersonalCenter.py" />
         <option value="$PROJECT_DIR$/testcase/Test_4_Feed.py" />
         <option value="$PROJECT_DIR$/base/App.py" />
-        <option value="$PROJECT_DIR$/Runner/run.py" />
         <option value="$PROJECT_DIR$/testcase/test_2_favorite.py" />
         <option value="$PROJECT_DIR$/business/FeedBusiness.py" />
         <option value="$PROJECT_DIR$/testcase/test_2_order.py" />
@@ -167,15 +174,17 @@
         <option value="$PROJECT_DIR$/page/personalCenter_page.py" />
         <option value="$PROJECT_DIR$/page/IM_page.py" />
         <option value="$PROJECT_DIR$/business/IMBusiness.py" />
+        <option value="$PROJECT_DIR$/Runner/run.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="81" />
-    <option name="y" value="248" />
+    <option name="x" value="1602" />
+    <option name="y" value="10" />
     <option name="width" value="997" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -237,10 +246,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Auto_Analysis-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Runner/run.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Runner/run.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -545,7 +555,7 @@
       <workItem from="1605147450493" duration="8455000" />
       <workItem from="1605420926789" duration="10496000" />
       <workItem from="1605496892884" duration="10239000" />
-      <workItem from="1605601217876" duration="992000" />
+      <workItem from="1605601217876" duration="3554000" />
     </task>
     <servers />
   </component>
@@ -582,7 +592,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="633835000" />
+    <option name="totallyTimeSpent" value="636397000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -594,9 +604,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-258" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49392712" visible="true" weight="0.36459908" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49392712" visible="true" weight="0.25692964" />
       <window_info id="Structure" order="1" sideWeight="0.5057283" side_tool="true" weight="0.16868381" />
       <window_info id="Favorites" order="2" sideWeight="0.5060729" side_tool="true" weight="0.16325037" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -610,7 +621,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014641" side_tool="true" weight="0.5687204" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3371522" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4902386" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.28968903" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.328594" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -856,8 +867,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Runner/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        <state relative-caret-position="345">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
           <folding>
             <element signature="e#16#31#0" expanded="true" />
           </folding>
@@ -877,7 +888,7 @@
     <entry file="file://$PROJECT_DIR$/business/IMBusiness.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="34" />
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
